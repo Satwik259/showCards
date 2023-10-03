@@ -1,0 +1,44 @@
+.header1-2{
+    font-size: 6vh;
+    margin-top:10px;
+    font-family: "Roboto Slab",sans-serif;
+    color: white;
+}
+.logo{
+    height:7vh;
+    width:3.5vw;
+}
+.header-1{
+    display: flex;
+    width: 45vw;
+    justify-content: center;
+    margin-left: -5vw ;
+    align-items: center;
+    gap: 6px;
+}
+.header2headings{
+    font-size:17px;
+    margin-top:26px;
+    color: white;
+}
+
+.header2{
+    display: flex;
+    width: 55vw;
+    gap: 40px;
+    align-items: center;
+    /* justify-content: space-between; */
+}
+.header{
+    display: flex;
+    width: 100vw;
+    height: 14vh;
+}
+.iconclass{
+    margin-top:26px;
+    color: white;
+}
+.down{
+    display: flex;
+    gap: 4px;
+}

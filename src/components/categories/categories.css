@@ -1,0 +1,15 @@
+.cat-flex{
+    display:flex;
+    justify-content: space-between;
+}
+.allcat-gap{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    margin-top: 20px;
+}
+.tags-wrap{
+    display: flex;
+    flex-wrap:wrap;
+    gap: 10px;
+}

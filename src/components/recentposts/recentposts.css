@@ -1,0 +1,42 @@
+.reacentandsearch{
+   display: flex;
+}
+.search-input{
+    margin-top:27px;
+    height: 42px;
+    width: 219px;
+}
+.searchhead{
+    font-size: 20px;
+    text-align: left;
+    font-weight: 200 ;
+    font-family: "Roboto Slab",sans-serif;
+}
+.searchicon{
+    height:42px;
+    width:45px;
+    margin-top:27px;
+    background-color: fuchsia;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.recent-flex{
+    display: flex;
+    gap: 13px;
+}
+.recentposts-flex{
+    margin-top:10px ;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.big-flex{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+.hr-top{
+    margin-top: 12px;
+}
